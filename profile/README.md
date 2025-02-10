@@ -25,7 +25,6 @@
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: [Tecnologias Frontend que você usou, ex: React, Angular, Vue.js]
-- **Backend**: [Tecnologias Backend, ex: Node.js, Django, Spring]
-- **Banco de Dados**: [Tecnologia de Banco de Dados, ex: MySQL, PostgreSQL, MongoDB]
-- **Outras Tecnologias**: [Outras ferramentas e bibliotecas que você utilizou, ex: Bootstrap, Chart.js]
+- **Frontend**: [React]
+- **Backend**: [Node.js]
+- **Banco de Dados**: [MySQL]
