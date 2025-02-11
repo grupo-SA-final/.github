@@ -1,4 +1,3 @@
-
 # CashFlow - Sistema de Controle Financeiro
 
 **CashFlow** é um sistema desenvolvido para ajudar os usuários a controlar suas finanças de forma simplificada e ágil. O sistema permite o registro de despesas e receitas, categorização de transações, visualização de relatórios e gráficos para facilitar o acompanhamento financeiro, contribuindo para uma gestão mais eficiente do orçamento pessoal ou familiar.
