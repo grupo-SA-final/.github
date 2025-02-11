@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- **Davi Wilpertt**
+- **Davi Wilpert de Souza**
 - **Aniel Matsumoto**
 - **Vinicius Duran**
 - **Matheus Aiala**
