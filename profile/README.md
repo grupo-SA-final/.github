@@ -6,10 +6,10 @@
 
 ## Integrantes
 
-- **Davi Wilpert de Souza** (github.com/daviwilpertt)
-- **Aniel Matsumoto** (github.com/aniel-matsumoto)
-- **Vinicius Duran** (github.com/Vinicius-Duran)
-- **Matheus Aiala** (github.com/MatheusAiala)
+- **Davi Wilpert de Souza** (https://github.com/daviwilpertt)
+- **Aniel Matsumoto** (https://github.com/aniel-matsumoto)
+- **Vinicius Duran** (https://github.com/Vinicius-Duran)
+- **Matheus Aiala** (https://github.com/MatheusAiala)
 
 ---
 
