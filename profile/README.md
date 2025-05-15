@@ -7,7 +7,6 @@ O **CashFlow** é um sistema de controle financeiro desenvolvido para ajudar os 
 ## Integrantes
 
 - **Davi Wilpert de Souza** (https://github.com/daviwilpertt)
-- **Aniel Matsumoto** (https://github.com/aniel-matsumoto)
 - **Vinicius Duran** (https://github.com/Vinicius-Duran)
 - **Matheus Aiala** (https://github.com/MatheusAiala)
 
@@ -25,10 +24,10 @@ O **CashFlow** é um sistema de controle financeiro desenvolvido para ajudar os 
 
   - **CRUD Usuário**: Encarregado(Vinicius)
   - **CRUD Receita**: Encarregado (Davi)
-  - **CRUD Centro de Custos**: Encarregado (Aniel)
+  - **CRUD Centro de Custos**: Encarregado (Davi)
   - **CRUD Conta Bancária**: Encarregado(Matheus)
   - **CRUD Lançamentos**: Encarregado(Vinicius)
-  - **CRUD Plano de Conta**:Encarregado (Aniel)
+  - **CRUD Plano de Conta**:Encarregado (Matheus)
 
 
 **Requisitos Não Funcionais:**
