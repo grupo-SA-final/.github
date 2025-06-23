@@ -27,7 +27,6 @@ O **CashFlow** é um sistema de controle financeiro desenvolvido para ajudar os 
   - **CRUD Centro de Custos**: Encarregado (Davi)
   - **CRUD Conta Bancária**: Encarregado(Matheus)
   - **CRUD Lançamentos**: Encarregado(Vinicius)
-  - **CRUD Plano de Conta**:Encarregado (Matheus)
 
 
 **Requisitos Não Funcionais:**
